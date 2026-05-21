@@ -3,12 +3,17 @@
 Este repositório contém templates de documentação para projetos de software, cobrindo todo o ciclo de vida:
 
 1. Proposta inicial
+    1. [Objetivo](01-proposta-inicial/objetivo.md)
+    2. [Motivação](01-proposta-inicial/motivacao.md)
+    3. [Finalidade](01-proposta-inicial/finalidade.md)
+    4. [Escopo](01-proposta-inicial/escopo.md)
 2. Requisitos
 3. Análise e Design
 4. Implementação
 5. Testes
 6. Deploy
 7. Manutenção
+8. Entregas Executivas
 
 ## Como usar
 - Clone este repositório.
