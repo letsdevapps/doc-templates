@@ -8,6 +8,9 @@ Este repositório contém templates de documentação para projetos de software,
     3. [Finalidade](01-proposta-inicial/finalidade.md)
     4. [Escopo](01-proposta-inicial/escopo.md)
 2. Requisitos
+    1. [Requisitos Funcionais](02-requisitos/requisitos-funcionais.md)
+    2. [Requisitos Não Funcionais](02-requisitos/requisitos-nao-funcionais.md)
+    3. [Regras de Negócio](02-requisitos/regras-de-negocio.md)
 3. Análise e Design
 4. Implementação
 5. Testes
