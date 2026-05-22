@@ -9,7 +9,7 @@
 | RF-001 |           | Alta       |             |
 | RF-002 |           | Média      |             |
 
-### Alternariva 
+### Alternativa
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>

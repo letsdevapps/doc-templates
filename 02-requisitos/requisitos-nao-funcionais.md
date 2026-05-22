@@ -9,7 +9,7 @@
 | RNF-001 |           |             |
 | RNF-002 |           |             |
 
-### Alternariva 
+### Alternativa
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
