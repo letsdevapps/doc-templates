@@ -12,6 +12,9 @@ Este repositório contém templates de documentação para projetos de software,
     2. [Requisitos Não Funcionais](02-requisitos/requisitos-nao-funcionais.md)
     3. [Regras de Negócio](02-requisitos/regras-de-negocio.md)
 3. Análise e Design
+    1. [Arquitetura](03-analise-design/arquitetura.md)
+    2. [Diagramas](03-analise-design/diagramas.md)
+    3. [Tecnologia](03-analise-design/tecnologias.md)
 4. Implementação
 5. Testes
 6. Deploy
