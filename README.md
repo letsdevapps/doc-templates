@@ -14,8 +14,11 @@ Este repositório contém templates de documentação para projetos de software,
 3. Análise e Design
     1. [Arquitetura](03-analise-design/arquitetura.md)
     2. [Diagramas](03-analise-design/diagramas.md)
-    3. [Tecnologia](03-analise-design/tecnologias.md)
+    3. [Tecnologias](03-analise-design/tecnologias.md)
 4. Implementação
+    1. [Setup Ambiente](04-implementacao/setup-ambiente.md)
+    2. [Guidelines Código](04-implementacao/guidelines-codigo.md)
+    3. [Padrão Commits](04-implementacao/padrao-commits.md)
 5. Testes
 6. Deploy
 7. Manutenção
