@@ -20,6 +20,9 @@ Este repositório contém templates de documentação para projetos de software,
     2. [Guidelines Código](04-implementacao/guidelines-codigo.md)
     3. [Padrão Commits](04-implementacao/padrao-commits.md)
 5. Testes
+    1. [Plano de Testes](05-testes/plano-de-testes.md)
+    2. [Casos de Testes](05-testes/casos-de-teste.md)
+    3. [Checklist de QA](05-testes/checklist-qa.md)
 6. Deploy
 7. Manutenção
 8. Entregas Executivas
