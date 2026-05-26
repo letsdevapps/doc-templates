@@ -24,6 +24,9 @@ Este repositório contém templates de documentação para projetos de software,
     2. [Casos de Testes](05-testes/casos-de-teste.md)
     3. [Checklist de QA](05-testes/checklist-qa.md)
 6. Deploy
+    1. [Deploy em Produção](06-deploy/deploy-prod.md)
+    2. [Rollback](06-deploy/rollback.md)
+    3. [Automação CI/CD](06-deploy/automacao-ci-cd.md)
 7. Manutenção
 8. Entregas Executivas
 
