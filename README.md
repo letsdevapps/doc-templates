@@ -28,6 +28,9 @@ Este repositório contém templates de documentação para projetos de software,
     2. [Rollback](06-deploy/rollback.md)
     3. [Automação CI/CD](06-deploy/automacao-ci-cd.md)
 7. Manutenção
+    1. [Runbook](07-manutencao/runbook.md)
+    2. [Logs e Monitoramento](07-manutencao/logs-monitoramento.md)
+    3. [GMUD Gerenciamento de Mudança](07-manutencao/gmud-template.md)
 8. Entregas Executivas
 
 ## Como usar
