@@ -32,6 +32,11 @@ Este repositório contém templates de documentação para projetos de software,
     2. [Logs e Monitoramento](07-manutencao/logs-monitoramento.md)
     3. [GMUD Gerenciamento de Mudança](07-manutencao/gmud-template.md)
 8. Entregas Executivas
+    1. [Status Report Gerente](08-entregas-executivas/status-report-gerente.md)
+    2. [Status Report Diretor](08-entregas-executivas/status-report-diretor.md)
+    3. [Resumo do Projeto](08-entregas-executivas/resumo-projeto.md)
+    4. [Business Case](08-entregas-executivas/business-case.md)
+    5. [Lições Aprendidas](08-entregas-executivas/licoes-aprendidas.md)
 
 ## Como usar
 - Clone este repositório.
