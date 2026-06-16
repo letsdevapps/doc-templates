@@ -1,8 +1,8 @@
 # Documentation Templates
 
-Marco de Documentación de Proyectos de Software
+Marco de Documentación de Proyectos de Software.
 
-** La documentación en Español está en desarrollo **
+**La documentación en Español está en desarrollo**
 
 Una plantilla integral de documentación de software que abarca todo el ciclo de vida, desde la propuesta inicial hasta la operación en producción, incluyendo requisitos, arquitectura, pruebas, implementación, gestión de cambios y entregables ejecutivos.
 

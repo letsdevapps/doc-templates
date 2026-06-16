@@ -1,6 +1,6 @@
 # Documentation Templates
 
-Framework de Documentação de Projetos de Software
+Framework de Documentação de Projetos de Software.
 
 Template completo de documentação de software cobrindo todo o ciclo de vida, desde a proposta inicial até a operação em produção, incluindo requisitos, arquitetura, testes, deploy, governança de mudanças e entregas executivas.
 

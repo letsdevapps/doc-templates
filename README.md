@@ -1,8 +1,11 @@
 # Documentation Templates
 
+![GitHub release](https://img.shields.io/github/v/release/letsdevapps/doc-templates)
+![GitHub last commit](https://img.shields.io/github/last-commit/letsdevapps/doc-templates)
+
 Software Project Documentation Framework (Work in Progress)
 
-* [🇧🇷 Português](README.md)
+* [🇧🇷 Português](docs/pt-br/README.md)
 * [🇺🇸 English](docs/en-us/README.md) - English documentation is under development.
 * [🇪🇸 Español](docs/es-es/README.md) - La documentación en Español está en desarrollo.
 
@@ -46,8 +49,9 @@ Each document contains guiding questions and ready-made structures to facilitate
     4. [Business Case](docs/pt-br/08-entregas-executivas/business-case.md)
     5. [Lições Aprendidas](docs/pt-br/08-entregas-executivas/licoes-aprendidas.md)
 
-## Como usar
-- Clone este repositório.
-- Copie os templates para seu projeto.
-- Preencha os arquivos correspondentes a cada fase do ciclo de vida.
-- Versione tudo junto com o código no GitHub.
+How to use:
+
+- Clone this repository.
+- Copy the templates to your project.
+- Fill in the files corresponding to each phase of the lifecycle.
+- Version everything together with the code on GitHub.

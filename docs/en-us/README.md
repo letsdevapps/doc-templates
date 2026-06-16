@@ -1,8 +1,8 @@
 # Documentation Templates
 
-Software Project Documentation Framework
+Software Project Documentation Framework.
 
-** English documentation is under development **
+**English documentation is under development**
 
 A comprehensive software documentation template covering the entire lifecycle, from initial proposal to production operation, including requirements, architecture, testing, deployment, change governance, and executive deliverables.
 
