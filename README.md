@@ -3,7 +3,7 @@
 ![GitHub release](https://img.shields.io/github/v/release/letsdevapps/doc-templates)
 ![GitHub last commit](https://img.shields.io/github/last-commit/letsdevapps/doc-templates)
 
-Software Project Documentation Framework (Work in Progress)
+Software Project Documentation Framework (...in Progress...)
 
 * [🇧🇷 Português](docs/pt-br/README.md)
 * [🇺🇸 English](docs/en-us/README.md) - English documentation is under development.
@@ -18,10 +18,10 @@ Each document contains guiding questions and ready-made structures to facilitate
     2. [Motivation](docs/en-us/01-initial-proposal/motivation.md)
     3. [Purpose](docs/en-us/01-initial-proposal/purpose.md)
     4. [Scope](docs/en-us/01-initial-proposal/scope.md)
-2. Requisitos
-    1. [Requisitos Funcionais](docs/pt-br/02-requisitos/requisitos-funcionais.md)
-    2. [Requisitos Não Funcionais](docs/pt-br/02-requisitos/requisitos-nao-funcionais.md)
-    3. [Regras de Negócio](docs/pt-br/02-requisitos/regras-de-negocio.md)
+2. Requirements
+    1. [Functional Requirements](docs/en-us/02-requirements/functional-requirements.md)
+    2. [Non-Functional Requirements](docs/en-us/02-requirements/non-functional-requirements.md)
+    3. [Business Rules](docs/en-us/02-requirements/business-rules.md)
 3. Análise e Design
     1. [Arquitetura](docs/pt-br/03-analise-design/arquitetura.md)
     2. [Diagramas](docs/pt-br/03-analise-design/diagramas.md)
