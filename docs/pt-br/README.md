@@ -14,13 +14,13 @@ Cada documento contém perguntas orientadoras e estruturas prontas para facilita
     3. [Finalidade](01-initial-proposal/purpose.md)
     4. [Escopo](01-initial-proposal/scope.md)
 2. Requisitos
-    1. [Requisitos Funcionais](02-requisitos/requisitos-funcionais.md)
-    2. [Requisitos Não Funcionais](02-requisitos/requisitos-nao-funcionais.md)
-    3. [Regras de Negócio](02-requisitos/regras-de-negocio.md)
+    1. [Requisitos Funcionais](02-requirements/functional-requirements.md)
+    2. [Requisitos Não Funcionais](02-requirements/non-functional-requirements.md)
+    3. [Regras de Negócio](02-requirements/business-rules.md)
 3. Análise e Design
-    1. [Arquitetura](03-analise-design/arquitetura.md)
-    2. [Diagramas](03-analise-design/diagramas.md)
-    3. [Tecnologias](03-analise-design/tecnologias.md)
+    1. [Arquitetura](03-analysis-design/architecture.md)
+    2. [Diagramas](03-analysis-design/diagrams.md)
+    3. [Tecnologias](03-analysis-design/technologies.md)
 4. Implementação
     1. [Setup Ambiente](04-implementacao/setup-ambiente.md)
     2. [Guidelines Código](04-implementacao/guidelines-codigo.md)

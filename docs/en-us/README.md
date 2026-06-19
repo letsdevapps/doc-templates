@@ -16,10 +16,10 @@ Each document contains guiding questions and ready-made structures to facilitate
     3. [Purpose](01-initial-proposal/purpose.md)
     4. [Scope](01-initial-proposal/scope.md)
 2. Requirements
-    1. [Functional Requirements](docs/en-us/02-requirements/functional-requirements.md)
-    2. [Non-Functional Requirements](docs/en-us/02-requirements/non-functional-requirements.md)
-    3. [Business Rules](docs/en-us/02-requirements/business-rules.md)
+    1. [Functional Requirements](02-requirements/functional-requirements.md)
+    2. [Non-Functional Requirements](02-requirements/non-functional-requirements.md)
+    3. [Business Rules](02-requirements/business-rules.md)
 3. Analysis and Design
-    1. [Architecture](docs/en-us/03-analysis-design/architecture.md)
-    2. [Diagrams](docs/en-us/03-analysis-design/diagrams.md)
-    3. [Technologies](docs/en-us/03-analysis-design/technologies.md)
+    1. [Architecture](03-analysis-design/architecture.md)
+    2. [Diagrams](03-analysis-design/diagrams.md)
+    3. [Technologies](03-analysis-design/technologies.md)
