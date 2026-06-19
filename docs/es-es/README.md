@@ -15,3 +15,11 @@ Cada documento contiene preguntas orientadoras y estructuras predefinidas para f
     2. [Motivación](01-initial-proposal/motivation.md)
     3. [Propósito](01-initial-proposal/purpose.md)
     4. [Alcance](01-initial-proposal/scope.md)
+2. Requisitos
+    1. [Requisitos Funcionales](docs/es-es/02-requirements/functional-requirements.md)
+    2. [Requisitos no funcionales](docs/es-es/02-requirements/non-functional-requirements.md)
+    3. [Reglas de negocio](docs/es-es/02-requirements/business-rules.md)
+3. Análisis y Design
+    1. [Arquitectura](docs/es-es/03-analysis-design/architecture.md)
+    2. [Diagramas](docs/es-es/03-analysis-design/diagrams.md)
+    3. [Tecnologías](docs/es-es/03-analysis-design/technologies.md)

@@ -22,10 +22,10 @@ Each document contains guiding questions and ready-made structures to facilitate
     1. [Functional Requirements](docs/en-us/02-requirements/functional-requirements.md)
     2. [Non-Functional Requirements](docs/en-us/02-requirements/non-functional-requirements.md)
     3. [Business Rules](docs/en-us/02-requirements/business-rules.md)
-3. Análise e Design
-    1. [Arquitetura](docs/pt-br/03-analise-design/arquitetura.md)
-    2. [Diagramas](docs/pt-br/03-analise-design/diagramas.md)
-    3. [Tecnologias](docs/pt-br/03-analise-design/tecnologias.md)
+3. Analysis and Design
+    1. [Architecture](docs/en-us/03-analysis-design/architecture.md)
+    2. [Diagrams](docs/en-us/03-analysis-design/diagrams.md)
+    3. [Technologies](docs/en-us/03-analysis-design/technologies.md)
 4. Implementação
     1. [Setup Ambiente](docs/pt-br/04-implementacao/setup-ambiente.md)
     2. [Guidelines Código](docs/pt-br/04-implementacao/guidelines-codigo.md)
