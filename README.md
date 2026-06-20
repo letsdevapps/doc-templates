@@ -26,28 +26,29 @@ Each document contains guiding questions and ready-made structures to facilitate
     1. [Architecture](docs/en-us/03-analysis-design/architecture.md)
     2. [Diagrams](docs/en-us/03-analysis-design/diagrams.md)
     3. [Technologies](docs/en-us/03-analysis-design/technologies.md)
-4. Implementação
-    1. [Setup Ambiente](docs/pt-br/04-implementacao/setup-ambiente.md)
-    2. [Guidelines Código](docs/pt-br/04-implementacao/guidelines-codigo.md)
-    3. [Padrão Commits](docs/pt-br/04-implementacao/padrao-commits.md)
-5. Testes
-    1. [Plano de Testes](docs/pt-br/05-testes/plano-de-testes.md)
-    2. [Casos de Testes](docs/pt-br/05-testes/casos-de-teste.md)
-    3. [Checklist de QA](docs/pt-br/05-testes/checklist-qa.md)
-6. Deploy
-    1. [Deploy em Produção](docs/pt-br/06-deploy/deploy-prod.md)
-    2. [Rollback](docs/pt-br/06-deploy/rollback.md)
-    3. [Automação CI/CD](docs/pt-br/06-deploy/automacao-ci-cd.md)
-7. Manutenção
-    1. [Runbook](docs/pt-br/07-manutencao/runbook.md)
-    2. [Logs e Monitoramento](docs/pt-br/07-manutencao/logs-monitoramento.md)
-    3. [GMUD Gerenciamento de Mudança](docs/pt-br/07-manutencao/gmud-template.md)
-8. Entregas Executivas
-    1. [Status Report Gerente](docs/pt-br/08-entregas-executivas/status-report-gerente.md)
-    2. [Status Report Diretor](docs/pt-br/08-entregas-executivas/status-report-diretor.md)
-    3. [Resumo do Projeto](docs/pt-br/08-entregas-executivas/resumo-projeto.md)
-    4. [Business Case](docs/pt-br/08-entregas-executivas/business-case.md)
-    5. [Lições Aprendidas](docs/pt-br/08-entregas-executivas/licoes-aprendidas.md)
+4. Implementation
+    1. [Environment Setup](docs/en-us/04-implementation/environment-setup.md)
+    2. [Coding Guidelines](docs/en-us/04-implementation/coding-guidelines.md)
+    3. [Commit Standards](docs/en-us/04-implementation/commit-standards.md)
+    4. [Development Workflow](docs/en-us/04-implementation/development-workflow.md)
+5. Testing
+    1. [Test Plan](docs/pt-br/05-testing/plano-de-testes.md)
+    2. [Test Cases](docs/pt-br/05-testing/casos-de-teste.md)
+    3. [QA Checklist](docs/pt-br/05-testing/checklist-qa.md)
+6. Deployment
+    1. [Production Deployment](docs/pt-br/06-deployment/deploy-prod.md)
+    2. [Rollback Procedure](docs/pt-br/06-deployment/rollback.md)
+    3. [CI/CD Automation](docs/pt-br/06-deployment/automacao-ci-cd.md)
+7. Operations and Maintenance
+    1. [Runbook](docs/pt-br/07-maintenance/runbook.md)
+    2. [Logging and Monitoring](docs/pt-br/07-maintenance/logs-monitoramento.md)
+    3. [Change Management](docs/pt-br/07-maintenance/gmud-template.md)
+8. Executive Deliverables
+    1. [Project Status Report (Manager)](docs/pt-br/08-executive-deliverables/status-report-gerente.md)
+    2. [Executive Status Report (Director)](docs/pt-br/08-executive-deliverables/status-report-diretor.md)
+    3. [Project Summary](docs/pt-br/08-executive-deliverables/resumo-projeto.md)
+    4. [Business Case](docs/pt-br/08-executive-deliverables/business-case.md)
+    5. [Lessons Learned](docs/pt-br/08-executive-deliverables/licoes-aprendidas.md)
 
 How to use:
 
@@ -55,3 +56,21 @@ How to use:
 - Copy the templates to your project.
 - Fill in the files corresponding to each phase of the lifecycle.
 - Version everything together with the code on GitHub.
+
+To-Do:
+
+**Templates**
+
+- PR template
+- Issue template
+- Status report template
+- Architecture doc template
+- Test plan template
+
+**Security & Compliance (ou Governance)**
+
+- Security requirements
+- Data privacy considerations
+- Access control
+- Compliance rules (LGPD/GDPR dependendo do caso)
+- Audit logs
