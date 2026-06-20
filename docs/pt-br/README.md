@@ -22,9 +22,10 @@ Cada documento contém perguntas orientadoras e estruturas prontas para facilita
     2. [Diagramas](03-analysis-design/diagrams.md)
     3. [Tecnologias](03-analysis-design/technologies.md)
 4. Implementação
-    1. [Setup Ambiente](04-implementacao/setup-ambiente.md)
-    2. [Guidelines Código](04-implementacao/guidelines-codigo.md)
-    3. [Padrão Commits](04-implementacao/padrao-commits.md)
+    1. [Setup Ambiente](04-implementation/environment-setup.md)
+    2. [Guidelines Código](04-implementation/coding-guidelines.md)
+    3. [Padrão Commits](04-implementation/commit-standards.md)
+    4. [Fluxo de Desenvolvimento](04-implementation/development-workflow.md)
 5. Testes
     1. [Plano de Testes](05-testes/plano-de-testes.md)
     2. [Casos de Testes](05-testes/casos-de-teste.md)
