@@ -28,3 +28,7 @@ Each document contains guiding questions and ready-made structures to facilitate
     2. [Coding Guidelines](04-implementation/coding-guidelines.md)
     3. [Commit Standards](04-implementation/commit-standards.md)
     4. [Development Workflow](04-implementation/development-workflow.md)
+5. Testing
+    1. [Test Plans](05-testing/test-plans.md)
+    2. [Test Cases](05-testing/test-cases.md)
+    3. [QA Checklist](05-testing/qa-checklist.md)
