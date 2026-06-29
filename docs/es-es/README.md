@@ -28,3 +28,7 @@ Cada documento contiene preguntas orientadoras y estructuras predefinidas para f
     2. [Guidelines de codificación](04-implementation/coding-guidelines.md)
     3. [Estándares de Commit](04-implementation/commit-standards.md)
     4. [Flujo de Desarrollo](04-implementation/development-workflow.md)
+5. Testing
+    1. [Plan de pruebas](05-testing/test-plans.md)
+    2. [Casos de prueba](05-testing/test-cases.md)
+    3. [Lista de verificación de QA](05-testing/qa-checklist.md)
