@@ -32,9 +32,9 @@ Each document contains guiding questions and ready-made structures to facilitate
     3. [Commit Standards](docs/en-us/04-implementation/commit-standards.md)
     4. [Development Workflow](docs/en-us/04-implementation/development-workflow.md)
 5. Testing
-    1. [Test Plan](docs/pt-br/05-testing/plano-de-testes.md)
-    2. [Test Cases](docs/pt-br/05-testing/casos-de-teste.md)
-    3. [QA Checklist](docs/pt-br/05-testing/checklist-qa.md)
+    1. [Test Plans](docs/en-us/05-testing/test-plans.md)
+    2. [Test Cases](docs/en-us/05-testing/test-cases.md)
+    3. [QA Checklist](docs/en-us/05-testing/qa-checklist.md)
 6. Deployment
     1. [Production Deployment](docs/pt-br/06-deployment/deploy-prod.md)
     2. [Rollback Procedure](docs/pt-br/06-deployment/rollback.md)
