@@ -27,9 +27,9 @@ Cada documento contém perguntas orientadoras e estruturas prontas para facilita
     3. [Padrão Commits](04-implementation/commit-standards.md)
     4. [Fluxo de Desenvolvimento](04-implementation/development-workflow.md)
 5. Testes
-    1. [Plano de Testes](05-testes/plano-de-testes.md)
-    2. [Casos de Testes](05-testes/casos-de-teste.md)
-    3. [Checklist de QA](05-testes/checklist-qa.md)
+    1. [Plano de Testes](05-testing/test-plans.md)
+    2. [Casos de Testes](05-testing/test-cases.md)
+    3. [Checklist de QA](05-testing/qa-checklist.md)
 6. Deploy
     1. [Deploy em Produção](06-deploy/deploy-prod.md)
     2. [Rollback](06-deploy/rollback.md)
