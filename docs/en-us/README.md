@@ -32,3 +32,7 @@ Each document contains guiding questions and ready-made structures to facilitate
     1. [Test Plans](05-testing/test-plans.md)
     2. [Test Cases](05-testing/test-cases.md)
     3. [QA Checklist](05-testing/qa-checklist.md)
+6. Deployment
+    1. [Production Deployment](06-deployment/deploy-production.md)
+    2. [Rollback](06-deployment/rollback.md)
+    3. [CI/CD Automation](06-deployment/ci-cd-automation.md)
