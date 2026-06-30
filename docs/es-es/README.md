@@ -32,3 +32,7 @@ Cada documento contiene preguntas orientadoras y estructuras predefinidas para f
     1. [Plan de pruebas](05-testing/test-plans.md)
     2. [Casos de prueba](05-testing/test-cases.md)
     3. [Lista de verificación de QA](05-testing/qa-checklist.md)
+6. Deployment
+    1. [Implementación en producción](06-deployment/deploy-production.md)
+    2. [Rollback](06-deployment/rollback.md)
+    3. [Automatización de CI/CD](06-deployment/ci-cd-automation.md)
