@@ -36,9 +36,9 @@ Each document contains guiding questions and ready-made structures to facilitate
     2. [Test Cases](docs/en-us/05-testing/test-cases.md)
     3. [QA Checklist](docs/en-us/05-testing/qa-checklist.md)
 6. Deployment
-    1. [Production Deployment](docs/pt-br/06-deployment/deploy-prod.md)
-    2. [Rollback Procedure](docs/pt-br/06-deployment/rollback.md)
-    3. [CI/CD Automation](docs/pt-br/06-deployment/automacao-ci-cd.md)
+    1. [Production Deployment](docs/en-us/06-deployment/deploy-production.md)
+    2. [Rollback](docs/en-us/06-deployment/rollback.md)
+    3. [CI/CD Automation](docs/en-us/06-deployment/ci-cd-automation.md)
 7. Operations and Maintenance
     1. [Runbook](docs/pt-br/07-maintenance/runbook.md)
     2. [Logging and Monitoring](docs/pt-br/07-maintenance/logs-monitoramento.md)
