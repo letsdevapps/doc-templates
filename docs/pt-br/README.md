@@ -31,9 +31,9 @@ Cada documento contém perguntas orientadoras e estruturas prontas para facilita
     2. [Casos de Testes](05-testing/test-cases.md)
     3. [Checklist de QA](05-testing/qa-checklist.md)
 6. Deploy
-    1. [Deploy em Produção](06-deploy/deploy-prod.md)
-    2. [Rollback](06-deploy/rollback.md)
-    3. [Automação CI/CD](06-deploy/automacao-ci-cd.md)
+    1. [Deploy em Produção](06-deployment/deploy-production.md)
+    2. [Rollback](06-deployment/rollback.md)
+    3. [Automação CI/CD](06-deployment/ci-cd-automation.md)
 7. Manutenção
     1. [Runbook](07-manutencao/runbook.md)
     2. [Logs e Monitoramento](07-manutencao/logs-monitoramento.md)
