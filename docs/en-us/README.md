@@ -36,3 +36,7 @@ Each document contains guiding questions and ready-made structures to facilitate
     1. [Production Deployment](06-deployment/deploy-production.md)
     2. [Rollback](06-deployment/rollback.md)
     3. [CI/CD Automation](06-deployment/ci-cd-automation.md)
+7. Maintenance
+    1. [Runbook](07-maintenance/runbook.md)
+    2. [Logging and Monitoring](07-maintenance/logging-monitoring.md)
+    3. [Change Management](07-maintenance/change-management.md)
