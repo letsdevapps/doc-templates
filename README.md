@@ -39,10 +39,10 @@ Each document contains guiding questions and ready-made structures to facilitate
     1. [Production Deployment](docs/en-us/06-deployment/deploy-production.md)
     2. [Rollback](docs/en-us/06-deployment/rollback.md)
     3. [CI/CD Automation](docs/en-us/06-deployment/ci-cd-automation.md)
-7. Operations and Maintenance
-    1. [Runbook](docs/pt-br/07-maintenance/runbook.md)
-    2. [Logging and Monitoring](docs/pt-br/07-maintenance/logs-monitoramento.md)
-    3. [Change Management](docs/pt-br/07-maintenance/gmud-template.md)
+7. Maintenance
+    1. [Runbook](docs/en-us/07-maintenance/runbook.md)
+    2. [Logging and Monitoring](docs/en-us/07-maintenance/logging-monitoring.md)
+    3. [Change Management](docs/en-us/07-maintenance/change-management.md)
 8. Executive Deliverables
     1. [Project Status Report (Manager)](docs/pt-br/08-executive-deliverables/status-report-gerente.md)
     2. [Executive Status Report (Director)](docs/pt-br/08-executive-deliverables/status-report-diretor.md)

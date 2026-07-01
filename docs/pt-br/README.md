@@ -35,9 +35,9 @@ Cada documento contém perguntas orientadoras e estruturas prontas para facilita
     2. [Rollback](06-deployment/rollback.md)
     3. [Automação CI/CD](06-deployment/ci-cd-automation.md)
 7. Manutenção
-    1. [Runbook](07-manutencao/runbook.md)
-    2. [Logs e Monitoramento](07-manutencao/logs-monitoramento.md)
-    3. [GMUD Gerenciamento de Mudança](07-manutencao/gmud-template.md)
+    1. [Runbook](07-maintenance/runbook.md)
+    2. [Logs e Monitoramento](07-maintenance/logging-monitoring.md)
+    3. [Gerenciamento de Mudança](07-maintenance/change-management.md)
 8. Entregas Executivas
     1. [Status Report Gerente](08-entregas-executivas/status-report-gerente.md)
     2. [Status Report Diretor](08-entregas-executivas/status-report-diretor.md)

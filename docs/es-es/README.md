@@ -36,3 +36,7 @@ Cada documento contiene preguntas orientadoras y estructuras predefinidas para f
     1. [Implementación en producción](06-deployment/deploy-production.md)
     2. [Rollback](06-deployment/rollback.md)
     3. [Automatización de CI/CD](06-deployment/ci-cd-automation.md)
+7. Mantenimiento
+    1. [Runbook](07-maintenance/runbook.md)
+    2. [Registros y monitorización](07-maintenance/logging-monitoring.md)
+    3. [Gestión de cambios](07-maintenance/change-management.md)
